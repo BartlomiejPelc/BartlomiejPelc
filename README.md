@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BartlomiejPelc
+- 👀 I’m interested in getting new skills.
+- 🌱 I’m currently learning how to become a QA.
+- 💞️ I’m looking to collaborate on road to lern.
+- 📫 How to reach me via bartlomiej.pv@gmail.com
